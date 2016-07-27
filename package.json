@@ -1,0 +1,19 @@
+{
+  "name": "abu-follow-the-money",
+  "version": "1.0.0",
+  "description": "A lightweight app, tracking UT campaign expenditure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pathiggins13/abu-follow-the-money.git"
+  },
+  "author": "Pat Higgins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pathiggins13/abu-follow-the-money/issues"
+  },
+  "homepage": "https://github.com/pathiggins13/abu-follow-the-money#readme"
+}
