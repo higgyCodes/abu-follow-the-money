@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A lightweight app, tracking UT campaign expenditure",
   "main": "index.js",
+  "engine": {
+    "node": "0.10.26"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +15,9 @@
   },
   "author": "Pat Higgins",
   "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.1"
+  },
   "bugs": {
     "url": "https://github.com/pathiggins13/abu-follow-the-money/issues"
   },
